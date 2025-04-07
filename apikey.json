@@ -1,17 +1,17 @@
 [
   {
-    "apikey": "apikey_rahasia_kamu",
+    "apikey": "SUNTIK",
     "status": "active",
-    "expired": "2025-04-10"
+    "expired": "2030-12-20"
   },
   {
-    "apikey": "apikey_diblokir",
-    "status": "banned",
+    "apikey": "NEW2026",
+    "status": "active",
     "expired": "2025-03-20"
   },
   {
-    "apikey": "apikey_kedaluwarsa",
-    "status": "expired",
-    "expired": "2025-03-10"
+    "apikey": "RAPIXPRIVATE",
+    "status": "active",
+    "expired": "2090-03-10"
   }
 ]
