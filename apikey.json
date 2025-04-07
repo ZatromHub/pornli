@@ -1,0 +1,17 @@
+[
+  {
+    "apikey": "apikey_rahasia_kamu",
+    "status": "active",
+    "expired": "2025-04-10"
+  },
+  {
+    "apikey": "apikey_diblokir",
+    "status": "banned",
+    "expired": "2025-03-20"
+  },
+  {
+    "apikey": "apikey_kedaluwarsa",
+    "status": "expired",
+    "expired": "2025-03-10"
+  }
+]
