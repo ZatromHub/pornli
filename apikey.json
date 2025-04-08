@@ -13,5 +13,10 @@
     "apikey": "RAPIXPRIVATE",
     "status": "active",
     "expired": "2090-03-10"
+  },
+  {
+    "apikey": "KUZEXINCTION",
+    "status": "active",
+    "expired": "2025-5-29"
   }
 ]
