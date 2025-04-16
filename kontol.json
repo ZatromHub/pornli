@@ -1,14 +1,15 @@
 {
-  "status": "online",
-  "mode": "normal",
-  "version": "1.0.0",
-  "files": [
-    "index.js",
-    "case.js",
-    "package.json",
-    "session/",
-    "source/",
-    "library/"
-  ]
+  "ZTR-APIKEY-12345": {
+    "status": "active",
+    "expiration": "2025-12-31T23:59:59.000Z",
+    "allowedNumbers": [
+      "6287780625347",
+      "6288880001111"
+    ]
+  },
+  "ZTR-APIKEY-99999": {
+    "status": "banned",
+    "expiration": "2026-01-01T00:00:00.000Z",
+    "allowedNumbers": []
+  }
 }
-
