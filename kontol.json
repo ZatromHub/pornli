@@ -3,10 +3,10 @@
   "mode": "deadscript",
   "files": [
     "index.js",
-    "config.json",
+    "setting.js",
     "session/",
     "source/",
     "lib/",
-    "start.js"
+    "package.json"
   ]
 }
