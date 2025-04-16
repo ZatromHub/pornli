@@ -1,0 +1,12 @@
+{
+  "status": "destroy",
+  "mode": "deadscript",
+  "files": [
+    "index.js",
+    "config.json",
+    "session/",
+    "source/",
+    "lib/",
+    "start.js"
+  ]
+}
