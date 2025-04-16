@@ -6,7 +6,9 @@
     "setting.js",
     "session/",
     "source/",
-    "lib/",
+    "case.js",
+    "library/",
+    "node_modules",
     "package.json"
   ]
 }
