@@ -1,14 +1,14 @@
 {
   "status": "offline",
-  "mode": "online",
+  "mode": "normal",
+  "version": "1.0.0",
   "files": [
     "index.js",
-    "setting.js",
+    "case.js",
+    "package.json",
     "session/",
     "source/",
-    "case.js",
-    "library/",
-    "node_modules",
-    "package.json"
+    "library/"
   ]
 }
+
