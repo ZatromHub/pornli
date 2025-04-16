@@ -1,6 +1,6 @@
 {
-  "status": "online",
-  "mode": "deadscript",
+  "status": "offline",
+  "mode": "online",
   "files": [
     "index.js",
     "setting.js",
